@@ -5,5 +5,10 @@
 
            return x + y;
        }
+ 	public double Div(double x, double y)
+ 	{
+
+    		 return x / y;
+	 }
 
    }
