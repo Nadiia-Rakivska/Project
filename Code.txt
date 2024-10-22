@@ -15,4 +15,11 @@
 
       return x * y;
   }
+
    }
+
+void main()
+{
+Calc calc=new Calk();
+calc.Add(3,7);
+}
